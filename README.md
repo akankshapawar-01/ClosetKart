@@ -1,2 +1,2 @@
-# CloseKart
+# ClosetKart
 MernStack Ecommerce Project
