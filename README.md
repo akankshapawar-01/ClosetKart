@@ -32,6 +32,7 @@ Coming soon...
 - Responsive Design
 
 ## 📁 Project Structure
+```
 ClosetKart/
 ├── backend/
 │   ├── config/
@@ -41,10 +42,11 @@ ClosetKart/
 │   ├── routes/
 │   └── server.js
 └── frontend/
-├── src/
-│   ├── components/
-│   └── pages/
-└── index.html
+    ├── src/
+    │   ├── components/
+    │   └── pages/
+    └── index.html
+```
 
 ## ⚙️ Installation
 
